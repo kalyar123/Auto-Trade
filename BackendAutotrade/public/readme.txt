@@ -1,0 +1,1 @@
+static file pics logo svg etc
